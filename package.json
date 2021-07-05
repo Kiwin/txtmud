@@ -1,0 +1,23 @@
+{
+  "name": "txtmud",
+  "version": "1.0.0",
+  "description": "Text mud (Multi User Dungeon) game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiwin/txtmud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiwin/txtmud/issues"
+  },
+  "homepage": "https://github.com/Kiwin/txtmud#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
